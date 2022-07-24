@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM shopping list</string>
+    <string name="add_new_shopping_item">Add new shopping item</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_amount">Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="please_enter_all_data_correctly">Please enter all data correctly</string>
+</resources>
